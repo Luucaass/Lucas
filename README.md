@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Luucaass
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Cybersecurity 
+- 👋 Hi, I’m @Lucas 
+- 👀 I’m interested in Cybersecurity and Dev
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me lucasgabrielmotog99@gmail.com 
 
