@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lucas 
 - 👀 I’m interested in Cybersecurity and Dev
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on dev full stack
 - 📫 How to reach me lucasgabrielmotog99@gmail.com 
 
 <!---
